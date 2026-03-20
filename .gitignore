@@ -1,0 +1,5 @@
+*.o
+vgcore.*
+/snake
+*.kate-swp
+/old
